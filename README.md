@@ -1,73 +1,85 @@
-# Welcome to your Lovable project
+# Maternal Health Companion
 
-## Project info
+A comprehensive health monitoring and support application for expectant mothers, providing symptom tracking, risk assessment, and essential pregnancy resources.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## Features
 
-## How can I edit this code?
+### 🩺 Symptom Checker
+- Track and monitor pregnancy-related symptoms
+- Real-time risk assessment with color-coded severity levels
+- Personalized recommendations based on symptoms
+- Local history of symptom checks
 
-There are several ways of editing your application.
+### 🤰 Pregnancy Tracker
+- Weekly pregnancy progress tracking
+- Important milestones and development information
+- Customized care tips for each trimester
 
-**Use Lovable**
+### 🚨 Emergency Support
+- Quick access to emergency contacts
+- Immediate risk assessment
+- Emergency call functionality for high-risk situations
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+### 📱 Offline-First Design
+- Works without internet connection
+- Data syncs when back online
+- Local storage for all your health data
 
-Changes made via Lovable will be committed automatically to this repo.
+### 📊 Health Monitoring
+- Track daily care tasks
+- Monitor nutrition and hydration
+- Record important health metrics
 
-**Use your preferred IDE**
+## Getting Started
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### Prerequisites
+- Node.js (v14 or later)
+- npm or yarn
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### Installation
 
-Follow these steps:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sasasaida/MXB2026-Dhaka-Zero-Mellow.git
+   cd maternal-health-companion
+   ```
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-# Step 3: Install the necessary dependencies.
-npm i
+4. Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+## Tech Stack
 
-**Edit a file directly in GitHub**
+- **Frontend**: React with TypeScript
+- **Styling**: Tailwind CSS
+- **State Management**: React Hooks
+- **Build Tool**: Vite
+- **Testing**: Vitest, React Testing Library
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## Contributing
 
-**Use GitHub Codespaces**
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## License
 
-## What technologies are used for this project?
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-This project is built with:
+## Support
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+For support, please open an issue in the GitHub repository.
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Built with ❤️ for better maternal healthcare
