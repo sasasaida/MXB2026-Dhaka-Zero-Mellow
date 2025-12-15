@@ -1,0 +1,172 @@
+{
+    "1-4": [
+        {
+            "nutrient": "Folic Acid",
+            "food": "Leafy greens, lentils, citrus",
+            "icon": "🍃",
+            "importance": "Critical for neural tube development"
+        },
+        {
+            "nutrient": "Iron",
+            "food": "Spinach, beans, fortified cereals",
+            "icon": "🥬",
+            "importance": "Supports increased blood volume"
+        },
+        {
+            "nutrient": "Calcium",
+            "food": "Dairy, tofu, almonds",
+            "icon": "🥛",
+            "importance": "For baby's bone development"
+        },
+        {
+            "nutrient": "Vitamin B6",
+            "food": "Bananas, chickpeas, salmon",
+            "icon": "🍌",
+            "importance": "Helps with nausea"
+        }
+    ],
+    "5-8": [
+        {
+            "nutrient": "Omega-3",
+            "food": "Flaxseeds, walnuts, chia seeds",
+            "icon": "🐟",
+            "importance": "Brain and eye development"
+        },
+        {
+            "nutrient": "Protein",
+            "food": "Lean meats, eggs, lentils",
+            "icon": "🍗",
+            "importance": "Tissue growth"
+        },
+        {
+            "nutrient": "Vitamin C",
+            "food": "Oranges, bell peppers, broccoli",
+            "icon": "🍊",
+            "importance": "Immune support"
+        },
+        {
+            "nutrient": "Fiber",
+            "food": "Whole grains, fruits, vegetables",
+            "icon": "🌾",
+            "importance": "Digestive health"
+        }
+    ],
+    "9-12": [
+        {
+            "nutrient": "Vitamin D",
+            "food": "Fortified milk, egg yolks, sunlight",
+            "icon": "☀️",
+            "importance": "Bone development"
+        },
+        {
+            "nutrient": "Zinc",
+            "food": "Pumpkin seeds, beef, chickpeas",
+            "icon": "🌰",
+            "importance": "Cell growth"
+        },
+        {
+            "nutrient": "Iodine",
+            "food": "Dairy, seafood, iodized salt",
+            "icon": "🧂",
+            "importance": "Thyroid function"
+        }
+    ],
+    "13-16": [
+        {
+            "nutrient": "Calcium",
+            "food": "Yogurt, cheese, bok choy",
+            "icon": "🧀",
+            "importance": "Bone development"
+        },
+        {
+            "nutrient": "Vitamin A",
+            "food": "Sweet potatoes, carrots, kale",
+            "icon": "🥕",
+            "importance": "Vision development"
+        }
+    ],
+    "17-20": [
+        {
+            "nutrient": "Iron",
+            "food": "Red meat, spinach, quinoa",
+            "icon": "🥩",
+            "importance": "Prevent anemia"
+        },
+        {
+            "nutrient": "Vitamin C",
+            "food": "Strawberries, kiwi, tomatoes",
+            "icon": "🍓",
+            "importance": "Iron absorption"
+        }
+    ],
+    "21-24": [
+        {
+            "nutrient": "Omega-3",
+            "food": "Salmon, walnuts, flaxseeds",
+            "icon": "🐟",
+            "importance": "Brain development"
+        },
+        {
+            "nutrient": "Choline",
+            "food": "Eggs, lean beef, broccoli",
+            "icon": "🥚",
+            "importance": "Brain function"
+        }
+    ],
+    "25-28": [
+        {
+            "nutrient": "Magnesium",
+            "food": "Almonds, spinach, avocado",
+            "icon": "🥑",
+            "importance": "Muscle function"
+        },
+        {
+            "nutrient": "Vitamin K",
+            "food": "Kale, spinach, Brussels sprouts",
+            "icon": "🥬",
+            "importance": "Blood clotting"
+        }
+    ],
+    "29-32": [
+        {
+            "nutrient": "Calcium",
+            "food": "Cheese, yogurt, fortified plant milk",
+            "icon": "🧀",
+            "importance": "Bone strength"
+        },
+        {
+            "nutrient": "Vitamin D",
+            "food": "Fatty fish, egg yolks, mushrooms",
+            "icon": "🍄",
+            "importance": "Calcium absorption"
+        }
+    ],
+    "33-36": [
+        {
+            "nutrient": "Iron",
+            "food": "Red meat, lentils, spinach",
+            "icon": "🥩",
+            "importance": "Prevent fatigue"
+        },
+        {
+            "nutrient": "Vitamin C",
+            "food": "Oranges, bell peppers, kiwi",
+            "icon": "🍊",
+            "importance": "Immune support"
+        }
+    ],
+    "37-40": [
+        {
+            "nutrient": "Dates",
+            "food": "6 dates daily",
+            "icon": "🌴",
+            "importance": "May help with labor"
+        },
+        {
+            "nutrient": "Raspberry Leaf",
+            "food": "Tea form",
+            "icon": "🍵",
+            "importance": "Uterine health"
+        }
+    ]
+}

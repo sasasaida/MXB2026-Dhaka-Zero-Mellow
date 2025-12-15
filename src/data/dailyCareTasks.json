@@ -1,0 +1,52 @@
+{
+    "tasks": [
+        {
+            "id": "water",
+            "label": "Drink 8-10 glasses of water",
+            "category": "hydration",
+            "icon": "💧"
+        },
+        {
+            "id": "walk",
+            "label": "30 minutes of walking",
+            "category": "exercise",
+            "icon": "🚶‍♀️"
+        },
+        {
+            "id": "prenatal",
+            "label": "Take prenatal vitamins",
+            "category": "supplements",
+            "icon": "💊"
+        },
+        {
+            "id": "stretch",
+            "label": "Pregnancy-safe stretches",
+            "category": "exercise",
+            "icon": "🧘‍♀️"
+        },
+        {
+            "id": "meal",
+            "label": "Eat 3 balanced meals",
+            "category": "nutrition",
+            "icon": "🍽️"
+        },
+        {
+            "id": "snack",
+            "label": "Healthy snacks between meals",
+            "category": "nutrition",
+            "icon": "🍎"
+        },
+        {
+            "id": "rest",
+            "label": "Take breaks and rest",
+            "category": "self-care",
+            "icon": "🛋️"
+        },
+        {
+            "id": "kick",
+            "label": "Track baby's movements",
+            "category": "monitoring",
+            "icon": "👣"
+        }
+    ]
+}

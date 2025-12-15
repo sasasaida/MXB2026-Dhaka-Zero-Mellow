@@ -1,0 +1,172 @@
+{
+    "1-4": [
+        {
+            "task": "Start taking prenatal vitamins",
+            "category": "health",
+            "importance": "high"
+        },
+        {
+            "task": "Schedule your first prenatal visit",
+            "category": "appointment",
+            "importance": "high"
+        },
+        {
+            "task": "Begin tracking your LMP",
+            "category": "tracking",
+            "importance": "medium"
+        }
+    ],
+    "5-8": [
+        {
+            "task": "Continue taking prenatal vitamins",
+            "category": "health",
+            "importance": "high"
+        },
+        {
+            "task": "Start a pregnancy journal",
+            "category": "lifestyle",
+            "importance": "low"
+        },
+        {
+            "task": "Research prenatal care providers",
+            "category": "planning",
+            "importance": "medium"
+        }
+    ],
+    "9-12": [
+        {
+            "task": "Schedule first ultrasound",
+            "category": "appointment",
+            "importance": "high"
+        },
+        {
+            "task": "Start gentle pregnancy exercises",
+            "category": "fitness",
+            "importance": "medium"
+        },
+        {
+            "task": "Begin taking belly photos",
+            "category": "memories",
+            "importance": "low"
+        }
+    ],
+    "13-16": [
+        {
+            "task": "Announce your pregnancy",
+            "category": "planning",
+            "importance": "medium"
+        },
+        {
+            "task": "Start prenatal yoga",
+            "category": "fitness",
+            "importance": "medium"
+        },
+        {
+            "task": "Research childbirth classes",
+            "category": "education",
+            "importance": "medium"
+        }
+    ],
+    "17-20": [
+        {
+            "task": "Schedule anatomy scan",
+            "category": "appointment",
+            "importance": "high"
+        },
+        {
+            "task": "Start pelvic floor exercises",
+            "category": "fitness",
+            "importance": "high"
+        },
+        {
+            "task": "Begin planning maternity leave",
+            "category": "planning",
+            "importance": "medium"
+        }
+    ],
+    "21-24": [
+        {
+            "task": "Register for childbirth classes",
+            "category": "education",
+            "importance": "medium"
+        },
+        {
+            "task": "Start baby registry",
+            "category": "planning",
+            "importance": "medium"
+        },
+        {
+            "task": "Practice good posture",
+            "category": "health",
+            "importance": "medium"
+        }
+    ],
+    "25-28": [
+        {
+            "task": "Take glucose screening test",
+            "category": "health",
+            "importance": "high"
+        },
+        {
+            "task": "Begin nursery planning",
+            "category": "planning",
+            "importance": "low"
+        },
+        {
+            "task": "Start monitoring baby's movements",
+            "category": "health",
+            "importance": "high"
+        }
+    ],
+    "29-32": [
+        {
+            "task": "Pack hospital bag",
+            "category": "planning",
+            "importance": "medium"
+        },
+        {
+            "task": "Install car seat",
+            "category": "safety",
+            "importance": "high"
+        },
+        {
+            "task": "Finalize birth plan",
+            "category": "planning",
+            "importance": "medium"
+        }
+    ],
+    "33-36": [
+        {
+            "task": "Take a hospital tour",
+            "category": "planning",
+            "importance": "medium"
+        },
+        {
+            "task": "Wash baby clothes",
+            "category": "preparation",
+            "importance": "low"
+        },
+        {
+            "task": "Prepare freezer meals",
+            "category": "preparation",
+            "importance": "low"
+        }
+    ],
+    "37-40": [
+        {
+            "task": "Final hospital bag check",
+            "category": "preparation",
+            "importance": "high"
+        },
+        {
+            "task": "Rest and relax",
+            "category": "self-care",
+            "importance": "high"
+        },
+        {
+            "task": "Practice relaxation techniques",
+            "category": "self-care",
+            "importance": "medium"
+        }
+    ]
+}

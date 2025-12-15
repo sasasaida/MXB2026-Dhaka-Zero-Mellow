@@ -1,0 +1,122 @@
+{
+    "1-4": {
+        "babyDevelopment": "Your baby is currently a tiny ball of cells called a blastocyst, which is rapidly dividing and growing.",
+        "motherCare": "Start taking prenatal vitamins with folic acid. Schedule your first prenatal visit with your healthcare provider.",
+        "nutritionTips": [
+            "Eat a balanced diet rich in folic acid",
+            "Stay hydrated with plenty of water"
+        ],
+        "exerciseTips": [
+            "Start with gentle walks",
+            "Practice deep breathing exercises"
+        ]
+    },
+    "5-8": {
+        "babyDevelopment": "Your baby's heart begins to beat and major organs start to form. The neural tube develops into the brain and spinal cord.",
+        "motherCare": "Be aware of early pregnancy symptoms like fatigue and nausea. Avoid alcohol, smoking, and limit caffeine.",
+        "nutritionTips": [
+            "Eat small, frequent meals to manage nausea",
+            "Include iron-rich foods in your diet"
+        ],
+        "exerciseTips": [
+            "Continue light to moderate exercise",
+            "Try prenatal yoga"
+        ]
+    },
+    "9-12": {
+        "babyDevelopment": "Your baby's fingers and toes are forming, and facial features are becoming more defined. The baby starts making small movements.",
+        "motherCare": "Consider sharing your pregnancy news with close family. Continue with regular prenatal checkups.",
+        "nutritionTips": [
+            "Increase protein intake",
+            "Add more fiber to prevent constipation"
+        ],
+        "exerciseTips": [
+            "Swimming is excellent now",
+            "Practice pelvic floor exercises"
+        ]
+    },
+    "13-16": {
+        "babyDevelopment": "Your baby can now make facial expressions and may start sucking their thumb. The nervous system is developing rapidly.",
+        "motherCare": "You might start showing soon. Consider maternity clothes for comfort. The second trimester usually brings more energy.",
+        "nutritionTips": [
+            "Focus on calcium-rich foods",
+            "Eat plenty of fruits and vegetables"
+        ],
+        "exerciseTips": [
+            "Continue moderate exercise",
+            "Try prenatal water aerobics"
+        ]
+    },
+    "17-20": {
+        "babyDevelopment": "You might start feeling your baby's first movements! The baby can hear sounds from the outside world now.",
+        "motherCare": "Start sleeping on your side if you haven't already. Consider a pregnancy pillow for better sleep.",
+        "nutritionTips": [
+            "Include omega-3 rich foods",
+            "Stay hydrated to prevent swelling"
+        ],
+        "exerciseTips": [
+            "Practice good posture",
+            "Continue with low-impact exercises"
+        ]
+    },
+    "21-24": {
+        "babyDevelopment": "Your baby's taste buds are developing, and they can taste what you eat through the amniotic fluid. The lungs are developing rapidly.",
+        "motherCare": "Be aware of signs of preterm labor. Start thinking about childbirth education classes.",
+        "nutritionTips": [
+            "Eat small, frequent meals",
+            "Include probiotic-rich foods"
+        ],
+        "exerciseTips": [
+            "Practice squats for labor prep",
+            "Continue with approved exercises"
+        ]
+    },
+    "25-28": {
+        "babyDevelopment": "Your baby's eyes open and close, and they can respond to light. The brain is developing rapidly with more complex brain tissue forming.",
+        "motherCare": "Start monitoring baby's movements. Consider creating a birth plan and packing your hospital bag.",
+        "nutritionTips": [
+            "Focus on iron-rich foods",
+            "Stay hydrated to prevent Braxton Hicks"
+        ],
+        "exerciseTips": [
+            "Practice gentle stretching",
+            "Continue with walking or swimming"
+        ]
+    },
+    "29-32": {
+        "babyDevelopment": "Your baby is gaining weight rapidly and may settle into the head-down position. The bones are fully formed but still soft.",
+        "motherCare": "Practice good posture to relieve back pain. Consider perineal massage to prepare for birth.",
+        "nutritionTips": [
+            "Eat smaller, more frequent meals",
+            "Include plenty of fiber"
+        ],
+        "exerciseTips": [
+            "Pelvic tilts can help with back pain",
+            "Practice deep breathing exercises"
+        ]
+    },
+    "33-36": {
+        "babyDevelopment": "Your baby's bones are hardening, but the skull remains soft for birth. The lungs are almost fully developed.",
+        "motherCare": "Sleep may become more difficult. Try different positions with extra pillows. Finalize your birth plan.",
+        "nutritionTips": [
+            "Continue with balanced meals",
+            "Stay hydrated to prevent swelling"
+        ],
+        "exerciseTips": [
+            "Practice labor positions",
+            "Gentle walking is beneficial"
+        ]
+    },
+    "37-40": {
+        "babyDevelopment": "Your baby is considered full-term and could arrive any day! The baby is practicing breathing and gaining weight.",
+        "motherCare": "Watch for signs of labor. Rest when possible and prepare for the big day. Your body is getting ready for birth.",
+        "nutritionTips": [
+            "Eat light, nutritious meals",
+            "Stay hydrated"
+        ],
+        "exerciseTips": [
+            "Go for gentle walks",
+            "Practice relaxation techniques"
+        ]
+    }
+}

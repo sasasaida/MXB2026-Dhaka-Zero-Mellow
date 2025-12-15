@@ -1,0 +1,127 @@
+{
+    "1-4": [
+        {
+            "week": 4,
+            "type": "First Prenatal Visit",
+            "description": "Confirm pregnancy, review medical history, initial blood work",
+            "tests": [
+                "Pregnancy test",
+                "Blood type",
+                "Complete blood count",
+                "STD screening"
+            ]
+        }
+    ],
+    "5-8": [
+        {
+            "week": 8,
+            "type": "First Ultrasound",
+            "description": "Confirm due date, check for heartbeat",
+            "tests": [
+                "Dating scan",
+                "Viability check"
+            ]
+        }
+    ],
+    "9-12": [
+        {
+            "week": 10,
+            "type": "Prenatal Checkup",
+            "description": "Routine checkup, discuss genetic testing options",
+            "tests": [
+                "Nuchal translucency scan (optional)"
+            ]
+        }
+    ],
+    "13-16": [
+        {
+            "week": 16,
+            "type": "Second Trimester Checkup",
+            "description": "Check baby's growth, discuss anatomy scan",
+            "tests": [
+                "Quad screen (optional)",
+                "Anatomy scan scheduled"
+            ]
+        }
+    ],
+    "17-20": [
+        {
+            "week": 20,
+            "type": "Anatomy Scan",
+            "description": "Detailed ultrasound to check baby's development",
+            "tests": [
+                "Fetal anatomy survey",
+                "Placenta location"
+            ]
+        }
+    ],
+    "21-24": [
+        {
+            "week": 24,
+            "type": "Glucose Screening",
+            "description": "Test for gestational diabetes",
+            "tests": [
+                "1-hour glucose test"
+            ]
+        }
+    ],
+    "25-28": [
+        {
+            "week": 28,
+            "type": "Third Trimester Checkup",
+            "description": "Rhogam shot if needed, discuss birth plan",
+            "tests": [
+                "Glucose test",
+                "Rh factor test"
+            ]
+        }
+    ],
+    "29-32": [
+        {
+            "week": 32,
+            "type": "Growth Scan",
+            "description": "Check baby's growth and position",
+            "tests": [
+                "Fetal growth assessment",
+                "Amniotic fluid check"
+            ]
+        }
+    ],
+    "33-36": [
+        {
+            "week": 36,
+            "type": "Group B Strep Test",
+            "description": "Screening for bacteria that could affect baby during birth",
+            "tests": [
+                "Vaginal/rectal swab"
+            ]
+        }
+    ],
+    "37-40": [
+        {
+            "week": 38,
+            "type": "Weekly Checkup",
+            "description": "Cervical check, discuss labor signs",
+            "tests": [
+                "Non-stress test (if needed)"
+            ]
+        },
+        {
+            "week": 39,
+            "type": "Weekly Checkup",
+            "description": "Monitor baby's position and movement",
+            "tests": [
+                "Biophysical profile (if needed)"
+            ]
+        },
+        {
+            "week": 40,
+            "type": "Post-Date Monitoring",
+            "description": "Discuss induction options if needed",
+            "tests": [
+                "Non-stress test",
+                "Amniotic fluid check"
+            ]
+        }
+    ]
+}
